@@ -13,8 +13,8 @@ class StorageAgentTui < Formula
 
   desc "Agentic, safety-first storage analysis and optimization TUI"
   homepage "https://github.com/Airine/storage-optimizer"
-  url "https://files.pythonhosted.org/packages/source/s/storage-agent-tui/storage_agent_tui-0.4.9.tar.gz"
-  sha256 "874cc67e6af3a3f7d236ca813561ea29103b433a70eacdafd6749166923bfeb5"
+  url "https://files.pythonhosted.org/packages/source/s/storage-agent-tui/storage_agent_tui-0.4.10.tar.gz"
+  sha256 "312b08d63fca21c18c6a5319b5a0899d63b68064538f695a6bcef9cc6eb5ed65"
   license "MIT"
 
   depends_on "python@3.12"
